@@ -1,1 +1,2 @@
-console.console.log("hiiiiiii");
+console.console.log("hi");
+let  =10;
